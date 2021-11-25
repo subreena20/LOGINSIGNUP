@@ -1,0 +1,12 @@
+[
+    {
+        "username": "subreena",
+        "password": "saba@121",
+        "re_password": "saba@121",
+        "date_of_birth": "10/03/2000",
+        "gender": "f",
+        "hobbies": "enter your hobbies: ",
+        "description": "student",
+        "contact": 6006232735
+    }
+]
